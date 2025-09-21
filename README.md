@@ -2,6 +2,10 @@
 
 Custom ESLint plugin that enforces database query performance best practices for Convex applications.
 
+This is an attempt at catching queries that have a high probability of being expensive or slow, it likely will not catch all of them, but it might help keep your usage down and your queries fast.
+
+Have fun :)
+
 ## Rules
 
 ### `no-unindexed-queries`

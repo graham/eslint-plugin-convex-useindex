@@ -10,7 +10,7 @@
     "database",
     "performance"
   ],
-  "author": "Auto-generated",
+  "author": "graham.abbott@gmail.com",
   "license": "MIT",
   "peerDependencies": {
     "eslint": ">=8.0.0"
